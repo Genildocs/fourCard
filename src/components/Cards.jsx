@@ -45,7 +45,7 @@ export default function Cards() {
   ];
 
   return (
-    <div className="grid grid-cols-1 lg:grid-cols-3 gap-8 p-8 lg:px-[10rem] lg:py-[5rem]">
+    <div className="grid grid-cols-1 lg:grid-cols-3 lg:justify-center gap-8 p-8 lg:px-[10rem] lg:py-[5rem]">
       <div className=" mt-20 lg:col-span-full">
         <p className="text-center font-extralight text-2xl lg:text-4xl leading-5 ">
           Reliable, efficient delivery
@@ -53,7 +53,7 @@ export default function Cards() {
         <h1 className="text-2xl lg:text-4xl mb-2  font-semibold text-center  text-neutral-very-dark-blue">
           Powered by Technology
         </h1>
-        <p className="text-center text-xs lg:text-base leading-5 opacity-50 mb-8">
+        <p className="text-center text-xs lg:text-base leading-5 opacity-50 mb-8 ">
           Our Artificial Intelligence powered tools use millions of project data
           points to ensure that your project is successful
         </p>

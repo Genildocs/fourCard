@@ -23,7 +23,7 @@
   .handle {
     width: 20px;
     height: 20px;
-    background-color: rgb(255, 208, 0);
+    background-color: rgb(255, 255, 255);
     border-radius: 40px;
   }
 }
