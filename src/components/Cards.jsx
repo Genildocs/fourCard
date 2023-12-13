@@ -1,4 +1,3 @@
-import React from 'react';
 import { useMediaQuery } from 'react-responsive';
 import Supervisor from '../assets/images/icon-supervisor.svg';
 import Home from '../assets/images/icon-team-builder.svg';
